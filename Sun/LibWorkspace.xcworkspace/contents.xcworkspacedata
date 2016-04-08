@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../CS411SampleCode/libnova/kunalNova/kunalNova.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:kunalSunDemo/kunalSunDemo.xcodeproj">
+   </FileRef>
+</Workspace>

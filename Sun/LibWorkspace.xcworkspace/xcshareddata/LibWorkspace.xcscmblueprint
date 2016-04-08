@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "08BCCE1F1BA08CC430FD3630583D005EAE01C33B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : 0,
+    "08BCCE1F1BA08CC430FD3630583D005EAE01C33B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "798DDB5B-A41F-4394-AAB0-9ABA20638040",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41A10D109E8129D62EB1978E2E225E8D5DD58C36" : "CPSC411\/CS411SampleCode\/",
+    "08BCCE1F1BA08CC430FD3630583D005EAE01C33B" : "CPSC411\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LibWorkspace",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Assignment6\/LibWorkspace.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kunalsntk\/KunalSontakkeCPSC411.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "08BCCE1F1BA08CC430FD3630583D005EAE01C33B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mshafae\/CS411SampleCode",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41A10D109E8129D62EB1978E2E225E8D5DD58C36"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DB9E3940-0FD0-4DB9-A98D-D10B1C495A06</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08BCCE1F1BA08CC430FD3630583D005EAE01C33B</key>
+		<string>github.com:kunalsntk/KunalSontakkeCPSC411.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Assignment3/Kunal_BMI/Kunal_BMI.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08BCCE1F1BA08CC430FD3630583D005EAE01C33B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kunalsntk/KunalSontakkeCPSC411.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08BCCE1F1BA08CC430FD3630583D005EAE01C33B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08BCCE1F1BA08CC430FD3630583D005EAE01C33B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KunalSontakkeCPSC411</string>
+		</dict>
+	</array>
+</dict>
+</plist>

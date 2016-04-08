@@ -1,0 +1,15 @@
+Kunal Sontakke
+kunalsntk@csu.fullerton.edu
+
+Assignment 3
+BMI Calculator
+
+Description
+
+The BMI calculator takes height and weight as input and provides with the BMI along with its description. the height and weight can me entered as per US units or the metric system. The units can be changed just by one simple switch on the user interface.
+
+Steps to use the BMI calculator.
+1. Run the project.
+2. Enter height.
+3. Enter Weight.
+4. Click on “Calculate”.
